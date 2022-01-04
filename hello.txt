@@ -4,5 +4,5 @@ hello Git3
 hello Git4
 hello Git5
 hello Git6
-hello Git7
 hello Git8 master test
+hello Git7 hot-fix test

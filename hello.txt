@@ -8,3 +8,4 @@ hello Git8 master test
 hello Git7 hot-fix test
 111111111111111111111111111
 2222222222222   by  lhc
+你好
